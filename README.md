@@ -1,8 +1,8 @@
 ### DigitalPT 😊
 
-- 💪 Website de musculação 
-- 👨🏻‍🤝‍👨🏻 Feito por dois studantes
-- 😎 Nossa obceção é a programação
+- 💪 Website de musculação ;
+- 👨🏻‍🤝‍👨🏻 Feito por dois studantes ;
+- 😎 Nossa obceção é a programação ;
 
 
 <div align="center">
