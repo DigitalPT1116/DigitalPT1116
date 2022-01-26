@@ -1,7 +1,11 @@
 ### DigitalPT 😊
 
 - 💪 Website de musculação ;
-- 👨🏻‍🤝‍👨🏻 Feito por dois studantes ;
+
+1. Feito por dois studantes :
+   - João Vieira 🧍🏻
+   - Rodrigo Rocha 🧍🏻‍♂️
+
 - 😎 Nossa obceção é a programação ;
 
 
