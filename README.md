@@ -1,5 +1,5 @@
-### DigitalPT 😊
-## Portuguese
+## DigitalPT 😊
+### Portuguese
 
 - 💪 Website de musculação ;
 
@@ -10,8 +10,8 @@
 - 😎 Nossa obceção é a programação ;
 
 
-### DigitalPT 😊
-## English 
+## DigitalPT 😊
+### English 
 
 - 💪 Bodybuilding website ;
 
