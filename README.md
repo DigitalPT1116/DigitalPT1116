@@ -10,7 +10,6 @@
 - 😎 Nossa obceção é a programação ;
 
 
-## DigitalPT 😊
 ### English 
 
 - 💪 Bodybuilding website ;
