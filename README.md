@@ -1,4 +1,5 @@
 ### DigitalPT 😊
+## Portuguese
 
 - 💪 Website de musculação ;
 
@@ -7,6 +8,18 @@
    - Rodrigo Rocha 🧍🏻‍♂️
 
 - 😎 Nossa obceção é a programação ;
+
+
+### DigitalPT 😊
+## English 
+
+- 💪 Bodybuilding website ;
+
+1. Made by two studants :
+   - João Vieira 🧍🏻
+   - Rodrigo Rocha 🧍🏻♂️
+
+- 😎 Our obsession is programming ;
 
 
 <div align="center">
