@@ -14,7 +14,7 @@
 
 - 💪 Bodybuilding website ;
 
-1. Made by two studants :
+1. Made by two students :
    - João Vieira 🧍🏻
    - Rodrigo Rocha 🧍🏻♂️
 
